@@ -1,0 +1,15 @@
+
+.bg-hero-image{
+    background-image: url('neutralPaintingBg.jpg');
+    background-position: center center;
+}
+
+.nav {
+    height: 3rem;
+    width: 3rem;
+}
+
+.portrait {
+    height:20rem;
+    
+}
