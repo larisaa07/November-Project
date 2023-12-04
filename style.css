@@ -13,3 +13,18 @@
     height:20rem;
     
 }
+
+body {
+    background-color:rgb(206, 194, 178);
+    font-family: 'Playfair Display', serif;
+
+}
+
+h1{
+    margin-top: 40px;
+}
+
+h3{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
